@@ -1,0 +1,14 @@
+# Docker build artifacts
+.dockerignore
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
